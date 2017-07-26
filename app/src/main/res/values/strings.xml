@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavAPP25</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">apellido</string>
+    <string name="passuno">password</string>
+    <string name="passdos">password</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
